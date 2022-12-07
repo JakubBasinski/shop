@@ -1,0 +1,10 @@
+.info {
+  position: fixed;
+  top: 4rem;
+  right: 2rem;
+}
+
+.info img {
+  width: 4rem;
+  height: 4rem;
+}
